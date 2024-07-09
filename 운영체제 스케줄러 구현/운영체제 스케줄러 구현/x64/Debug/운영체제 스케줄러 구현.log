@@ -1,0 +1,4 @@
+﻿  스케줄러.c
+C:\Users\dksdy\OneDrive\바탕 화면\운영체제 스케줄러 구현\운영체제 스케줄러 구현\스케줄러.c(65,3): warning C4033: 'dequeue'은(는) 값을 반환해야 합니다.
+C:\Users\dksdy\OneDrive\바탕 화면\운영체제 스케줄러 구현\운영체제 스케줄러 구현\스케줄러.c(71): warning C4715: 'dequeue': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  운영체제 스케줄러 구현.vcxproj -> C:\Users\dksdy\OneDrive\바탕 화면\운영체제 스케줄러 구현\x64\Debug\운영체제 스케줄러 구현.exe
